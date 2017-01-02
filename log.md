@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 0: Jan 2, 2017
+#### Progress:
+1. Watched a video tutorial on how to get going with **github**.
+2. Forked this git.
+
+#### Thoughts:
+Tomorrow is when I begin making actual progress. Have quite a bit piled up with slow progress on my portfolio site and the abandoned Java Course on Udacity. Shall handle those first.
+Oh and I got 8 commends on a single game today. Match ID - 2888898008 Lich. Super excited.
+
+
+
+
+
+
+
+
+
+<hr/>
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
